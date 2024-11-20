@@ -1,0 +1,419 @@
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\appsettings.Development.json
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\appsettings.json
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\task.json
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\EX2.exe
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\EX2.deps.json
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\EX2.runtimeconfig.json
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\EX2.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\EX2.pdb
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.AssemblyInfoInputs.cache
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.AssemblyInfo.cs
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.csproj.CoreCompileInputs.cache
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.MvcApplicationPartsAssemblyInfo.cache
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\staticwebassets.build.json
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\staticwebassets.development.json
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.EX2.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.build.EX2.props
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EX2.props
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EX2.props
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\staticwebassets.pack.json
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\scopedcss\bundle\EX2.styles.css
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.dll
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\refint\EX2.dll
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.pdb
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.genruntimeconfig.cache
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\ref\EX2.dll
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.csproj.AssemblyReference.cache
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.MvcApplicationPartsAssemblyInfo.cs
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web API\lesson2\EX2\EX2\obj\Debug\net8.0\EX2.csproj.Up2Date
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Azure.Core.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Azure.Identity.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Humanizer.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.CodeDom.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Memory.Data.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Text.Json.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web API\lesson2\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\appsettings.json
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\task.json
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\appsettings.Development.json
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\EX2.exe
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\EX2.deps.json
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\EX2.runtimeconfig.json
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\EX2.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\EX2.pdb
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Azure.Core.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Azure.Identity.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Humanizer.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.CodeDom.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Memory.Data.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Text.Json.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web API\lesson3\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.csproj.AssemblyReference.cache
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.AssemblyInfoInputs.cache
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.AssemblyInfo.cs
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.csproj.CoreCompileInputs.cache
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.MvcApplicationPartsAssemblyInfo.cs
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.MvcApplicationPartsAssemblyInfo.cache
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\staticwebassets.build.json
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\staticwebassets.development.json
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.EX2.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.build.EX2.props
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EX2.props
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EX2.props
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\staticwebassets.pack.json
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\scopedcss\bundle\EX2.styles.css
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.csproj.Up2Date
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.dll
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\refint\EX2.dll
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.pdb
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\EX2.genruntimeconfig.cache
+M:\Web API\lesson3\EX2\EX2\obj\Debug\net8.0\ref\EX2.dll
+M:\EX2\EX2\bin\Debug\net8.0\appsettings.Development.json
+M:\EX2\EX2\bin\Debug\net8.0\appsettings.json
+M:\EX2\EX2\bin\Debug\net8.0\task.json
+M:\EX2\EX2\bin\Debug\net8.0\EX2.exe
+M:\EX2\EX2\bin\Debug\net8.0\EX2.deps.json
+M:\EX2\EX2\bin\Debug\net8.0\EX2.runtimeconfig.json
+M:\EX2\EX2\bin\Debug\net8.0\EX2.dll
+M:\EX2\EX2\bin\Debug\net8.0\EX2.pdb
+M:\EX2\EX2\bin\Debug\net8.0\Azure.Core.dll
+M:\EX2\EX2\bin\Debug\net8.0\Azure.Identity.dll
+M:\EX2\EX2\bin\Debug\net8.0\Humanizer.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\EX2\EX2\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\EX2\EX2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.CodeDom.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Memory.Data.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\EX2\EX2\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\EX2\EX2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\EX2\EX2\obj\Debug\net8.0\EX2.csproj.AssemblyReference.cache
+M:\EX2\EX2\obj\Debug\net8.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+M:\EX2\EX2\obj\Debug\net8.0\EX2.AssemblyInfoInputs.cache
+M:\EX2\EX2\obj\Debug\net8.0\EX2.AssemblyInfo.cs
+M:\EX2\EX2\obj\Debug\net8.0\EX2.csproj.CoreCompileInputs.cache
+M:\EX2\EX2\obj\Debug\net8.0\EX2.MvcApplicationPartsAssemblyInfo.cs
+M:\EX2\EX2\obj\Debug\net8.0\EX2.MvcApplicationPartsAssemblyInfo.cache
+M:\EX2\EX2\obj\Debug\net8.0\staticwebassets.build.json
+M:\EX2\EX2\obj\Debug\net8.0\staticwebassets.development.json
+M:\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.EX2.Microsoft.AspNetCore.StaticWebAssets.props
+M:\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.build.EX2.props
+M:\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EX2.props
+M:\EX2\EX2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EX2.props
+M:\EX2\EX2\obj\Debug\net8.0\staticwebassets.pack.json
+M:\EX2\EX2\obj\Debug\net8.0\scopedcss\bundle\EX2.styles.css
+M:\EX2\EX2\obj\Debug\net8.0\EX2.csproj.Up2Date
+M:\EX2\EX2\obj\Debug\net8.0\EX2.dll
+M:\EX2\EX2\obj\Debug\net8.0\refint\EX2.dll
+M:\EX2\EX2\obj\Debug\net8.0\EX2.pdb
+M:\EX2\EX2\obj\Debug\net8.0\EX2.genruntimeconfig.cache
+M:\EX2\EX2\obj\Debug\net8.0\ref\EX2.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

@@ -8,6 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
 builder.Services.AddScoped<ITaskService, TaskService>();
+builder.Services.AddScoped<IAttachmentRepository, AttachmentWithTask>();
+builder.Services.AddScoped<IAttachmentService, AttachmentService>();
+
 
 builder.Services.AddDbContext<TaskDBContext>(options =>
   options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))

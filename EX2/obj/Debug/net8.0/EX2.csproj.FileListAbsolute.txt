@@ -417,3 +417,14 @@ M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstraction
 M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 M:\EX2\EX2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.csproj.AssemblyReference.cache
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.AssemblyInfoInputs.cache
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.AssemblyInfo.cs
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.csproj.CoreCompileInputs.cache
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.MvcApplicationPartsAssemblyInfo.cs
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.MvcApplicationPartsAssemblyInfo.cache
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.sourcelink.json
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.dll
+M:\Api\EX2\EX2\obj\Debug\net8.0\refint\EX2.dll
+M:\Api\EX2\EX2\obj\Debug\net8.0\EX2.pdb

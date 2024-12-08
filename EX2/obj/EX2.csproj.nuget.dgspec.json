@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\EX2\\EX2\\EX2.csproj": {}
+    "M:\\Api\\EX2\\EX2\\EX2.csproj": {}
   },
   "projects": {
-    "M:\\EX2\\EX2\\EX2.csproj": {
+    "M:\\Api\\EX2\\EX2\\EX2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\EX2\\EX2\\EX2.csproj",
+        "projectUniqueName": "M:\\Api\\EX2\\EX2\\EX2.csproj",
         "projectName": "EX2",
-        "projectPath": "M:\\EX2\\EX2\\EX2.csproj",
+        "projectPath": "M:\\Api\\EX2\\EX2\\EX2.csproj",
         "packagesPath": "C:\\Users\\328276852\\.nuget\\packages\\",
-        "outputPath": "M:\\EX2\\EX2\\obj\\",
+        "outputPath": "M:\\Api\\EX2\\EX2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
